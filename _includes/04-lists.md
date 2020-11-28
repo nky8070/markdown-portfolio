@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+my favorite food shop
+- sushi
+- ramen
+  - tonkotsu
+  - shoyu
+  - miso
+- yakiniku
